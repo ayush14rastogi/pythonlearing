@@ -1,5 +1,4 @@
-#pythonlearing
-output from 02-list_datastructure 
+#output from 02-list_datastructure 
 
 ```
 arastogi@CWAN-FVFG26XGQ05N python-learning % python3 02-list_datastructure                                                 
