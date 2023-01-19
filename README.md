@@ -1,7 +1,7 @@
 # pythonlearing
 output from 02-list_datastructure 
 
-<code>
+```
 "arastogi@CWAN-FVFG26XGQ05N python-learning % python3 02-list_datastructure                                                 
 Blank List:  []
 Creating a list of numbers ---->
@@ -39,4 +39,4 @@ revering the numbers list using reverse() method [3, 2, 4, 1]
 
 sorting the numbers list using sort() method [1, 2, 3, 4]
 
-"<code>
+```
