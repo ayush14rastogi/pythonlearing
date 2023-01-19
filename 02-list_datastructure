@@ -68,8 +68,3 @@ print("\nrevering the numbers list using reverse() method", numbers)
 #sort()	Sorts the list
 numbers.sort()
 print("\nsorting the numbers list using sort() method", numbers)
-
-
-
-
-#
