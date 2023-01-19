@@ -9,7 +9,7 @@ print("List of numbers: ", mylist)
 # list methods
 #append()	Adds an element at the end of the list
 
-print("\nAppending a number '12' to mylist with append() method.")
+print("\nAppending a number '12' to mylist with append() method at the end of list")
 mylist.append('12')
 print("mylist after appending: ",mylist)
 
