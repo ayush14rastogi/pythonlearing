@@ -1,4 +1,6 @@
-from calc import *
+#using calc_module.py module 
+
+from calc_module import *
 
 a=9
 b=7
