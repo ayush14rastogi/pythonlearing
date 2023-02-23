@@ -1,0 +1,16 @@
+import logging
+
+logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.INFO)
+logging.info('Admin logged in')
+
+name = 'John'
+
+logging.error('%s raised an error', name)
+
+a = 5
+b = 0
+
+try:
+  c = a / b
+except Exception as e:
+  logging.error("Exception occurred", exc_info=True)
