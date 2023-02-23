@@ -23,5 +23,4 @@ def full_name():
             last_name = arg   
         elif opt in ['-h', '--last_name']:
             usage()
- 
-full_name()        
+full_name()
